@@ -7,6 +7,7 @@
 ## Java                     
 * [Java의 특징](https://hungseong.tistory.com/57)                      
 * JVM                         
+* [Array](https://hungseong.tistory.com/58)                   
 
 ## Backend                  
                                            
