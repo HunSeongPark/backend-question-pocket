@@ -11,4 +11,5 @@
 
 ## Backend                  
 * Http 스펙             
-* Dto                                       
+* Dto             
+* JPA                          
