@@ -7,7 +7,8 @@
 ## Java                     
 * [Java의 특징](https://hungseong.tistory.com/57)                      
 * JVM                         
-* [Array](https://hungseong.tistory.com/58)                   
+* [Array](https://hungseong.tistory.com/58)                     
+* OOP - Solid          
 
 ## Backend                  
 * Http 스펙             
