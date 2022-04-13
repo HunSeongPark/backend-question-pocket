@@ -17,4 +17,5 @@
 ## Backend                  
 * Http 스펙             
 * Dto             
-* JPA                          
+* JPA       
+* 역정규화                   
