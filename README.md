@@ -9,6 +9,10 @@
 * JVM                         
 * [Array](https://hungseong.tistory.com/58)                     
 * OOP - Solid          
+* DDD 
+* TDD
+* Domain Model Pattern
+* Transaction Script Pattern
 
 ## Backend                  
 * Http 스펙             
