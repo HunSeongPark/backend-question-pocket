@@ -18,4 +18,8 @@
 * Http 스펙             
 * Dto             
 * JPA       
-* 역정규화                   
+* 역정규화      
+* WAS, Server, etc, ...
+* 세션, 쿠키, 캐시
+* Redis
+* Docker, Kubernetes           
