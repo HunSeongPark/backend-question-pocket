@@ -15,7 +15,7 @@
 * Transaction Script Pattern
 
 ## Backend       
-* [무결성 참조 문제 오류](https://hungseong.tistory.com/59)
+* [무결성 참조 문제 오류 : JdbcSQLIntegrityConstraintViolationException](https://hungseong.tistory.com/59)
 * Http 스펙             
 * Dto             
 * JPA       
