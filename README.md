@@ -14,7 +14,8 @@
 * Domain Model Pattern
 * Transaction Script Pattern
 
-## Backend                  
+## Backend       
+* [무결성 참조 문제 오류](https://hungseong.tistory.com/59)
 * Http 스펙             
 * Dto             
 * JPA       
