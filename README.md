@@ -15,6 +15,7 @@
 * Transaction Script Pattern
 * 기존 `HashMap`의 동시성 이슈를 해결하기 위한 `ConcurrentHashMap`
 * ThreadLocal
+* Getter / Setter의 사용 이유
 
 ## Backend       
 * [무결성 참조 문제 오류 : JdbcSQLIntegrityConstraintViolationException](https://hungseong.tistory.com/59)
