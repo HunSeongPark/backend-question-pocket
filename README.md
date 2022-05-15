@@ -24,4 +24,5 @@
 * WAS, Server, etc, ...
 * 세션, 쿠키, 캐시
 * Redis
-* Docker, Kubernetes           
+* Docker, Kubernetes     
+* AssertJ `isEqualTo` vs `isSameAs`     
