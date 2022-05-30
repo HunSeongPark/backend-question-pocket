@@ -17,7 +17,8 @@
 * Getter / Setter의 사용 이유
 
 ## Backend       
-* [무결성 참조 문제 오류 : JdbcSQLIntegrityConstraintViolationException](https://hungseong.tistory.com/59)
+* [무결성 참조 문제 오류 : JdbcSQLIntegrityConstraintViolationException](https://hungseong.tistory.com/59) 
+* [로그인 성공 시 이전 페이지로 이동 - Referer 헤더와 AuthenticationSuccessHandler extends](https://hungseong.tistory.com/60)        
 * Http 스펙             
 * Dto             
 * JPA       
