@@ -29,3 +29,4 @@
 * Redis
 * Docker, Kubernetes     
 * AssertJ `isEqualTo` vs `isSameAs`     
+* Spring Event Publisher
