@@ -30,3 +30,4 @@
 * Docker, Kubernetes     
 * AssertJ `isEqualTo` vs `isSameAs`     
 * Spring Event Publisher
+* Spring Async 비동기 처리
